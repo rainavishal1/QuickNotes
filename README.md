@@ -8,6 +8,7 @@ Chef for OpenStack
 https://docs.chef.io/openstack.html
 
 Syncing files based on Checksum 
+
 rsync -vrc /home/temp/ username@remote-host:/home/temp/
 
 Parameters used in the above example
