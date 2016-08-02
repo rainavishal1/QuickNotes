@@ -13,5 +13,7 @@ rsync -vrc /home/temp/ username@remote-host:/home/temp/
 Parameters used in the above example
 
 -v for verbose
+
 -r for recursive
+
 -c for skip based on checksum, not mod-time & size
